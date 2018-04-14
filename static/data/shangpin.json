@@ -1,0 +1,26 @@
+[
+	{
+		"id":0,
+		"name":"爱宝ab-7400触摸屏收款机，适用于酒店餐饮",
+		"pay":1380.00,
+		"pic":"../../static/img/shangpin01.jpg"
+	},
+	{
+		"id":1,
+		"name":"爱宝，双屏触摸屏收音机，收款机超市餐饮",
+		"pay":2900.00,
+		"pic":"../../static/img/shangpin01.jpg"
+	},
+	{
+		"id":2,
+		"name":"爱宝ab-7400触摸屏收款机，适用于酒店餐饮",
+		"pay":2500.00,
+		"pic":"../../static/img/shangpin01.jpg"
+	},
+	{
+		"id":3,
+		"name":"爱宝，双屏触摸屏收音机，收款机超市餐饮",
+		"pay":1890.00,
+		"pic":"../../static/img/shangpin01.jpg"
+	}
+]
